@@ -1,3 +1,10 @@
+#Python 2.7.6
+#OpenCV 2.4.13
+
+python face_detect.py abba.png
+python live.py abba.png
+
+
 Run the code like this:
 
 *python face_detect.py abba.png*
